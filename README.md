@@ -1,6 +1,17 @@
 # bgAuth
 A simple account login system without database
 
+## Demo
+[Open demo](https://bastothemax.nl/demo/bgAuth/)
+#### User login
+**username** `bgcraft`<br>
+**password** `psw!`
+
+#### Admin login
+**username** `admin`<br>
+**password** `admin`
+
+
 ## Install
 ```php
 <?php
