@@ -13,6 +13,7 @@ A simple account login system without database
 
 
 ## Install
+`index.php`
 ```php
 <?php
     require_once('main.bgAuth.php');
@@ -24,6 +25,7 @@ Hello <b><?php echo $auth->get_name(); ?></b> on <b><?php echo $auth->get_site_t
 ```
 
 ## Config
+`config.bgAuth.php`
 ```php
 <?php
     $c = array(
