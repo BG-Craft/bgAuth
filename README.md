@@ -64,6 +64,9 @@ Hello <b><?php echo $auth->get_name(); ?></b> on <b><?php echo $auth->get_site_t
 - Add signup function
 - Add more themes
 
+## Websites or projects with **bgAuth**
+*None*
+
 ## Credits
 [![BG-Craft](https://avatars.githubusercontent.com/BG-Craft?size=100)](https://github.com/BG-Craft/)
 
