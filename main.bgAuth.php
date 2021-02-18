@@ -9,7 +9,7 @@
     public $home;
 
     function __construct() {
-        include('config.php');
+        include('config.bgAuth.php');
         $this->title = $c['title'];
         $this->theme = $c['theme'];
         $this->users = $c['users'];
